@@ -1,3 +1,7 @@
-![image](https://github.com/user-attachments/assets/ed529a89-a329-45a6-a13f-622ee1eae5a5)
-gemini
-RAG 
+# RAMA-AI (Retrieval Augmented Multimodal Architecture):
+
+![image](https://github.com/user-attachments/assets/b2e5ad6c-78c1-4e1a-9147-22312783f72d)
+
+Vector-RAG (Gemini)
+
+Credits: Ayaan Momin, Ojas Katyal, Vicky and Mohammad Omar Khan
